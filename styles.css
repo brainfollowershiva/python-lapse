@@ -1,0 +1,33 @@
+html > * {
+    background-color: rgb(199, 214, 178);
+}
+.py
+{
+    text-align: center;
+}
+.a
+{
+    display: grid;
+  grid-template-columns: repeat(4,100px);
+  text-align: center
+}
+.a 
+{
+   font-weight: lighter;
+   font-style: inherit;
+
+}
+.hell
+{
+    text-align: center;
+}
+
+.b
+{
+    text-align: center;
+    font-style: italic;
+}
+footer{
+    color: rgb(78, 44, 44);
+    text-align: center;
+}
